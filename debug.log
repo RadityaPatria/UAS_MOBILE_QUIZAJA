@@ -1,0 +1,616 @@
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"radit","email":"radit@gmail.com","password":"1234"}
+Registrasi sukses untuk user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"radit","email":"radit@gmail.com","password":"radit"}
+Error: Username radit sudah ada
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"jono","email":"jono@gmail.com","password":"1234"}
+Registrasi sukses untuk user: jono
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"hana","email":"hana@gmail.com","password":"1234"}
+Registrasi sukses untuk user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"messi","email":"messi@gmail.com","password":"1234"}
+Registrasi sukses untuk user: messi
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"messi","password":"1234"}
+Login success for user: messi
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"musik"}
+Password salah untuk user: radit
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"dodo","email":"dodo@gmail.com","password":"1234"}
+Registrasi sukses untuk user: dodo
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"dodo","password":"1234"}
+Login success for user: dodo
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"dodo","password":"1234"}
+Login success for user: dodo
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radt","password":"1234"}
+User tidak ditemukan: radt
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radt","password":"1234"}
+User tidak ditemukan: radt
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"","email":"","password":""}
+Error: Data tidak lengkap
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"ucrit","email":"ucrit@gmail.com","password":"1234"}
+Registrasi sukses untuk user: ucrit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"ucrit","password":"1234"}
+Login success for user: ucrit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"","email":"","password":""}
+Error: Data tidak lengkap
+Data diterima: {"username":"","email":"","password":""}
+Error: Data tidak lengkap
+Data diterima: {"username":"","email":"","password":""}
+Error: Data tidak lengkap
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"hana","password":"1234"}
+Login success for user: hana
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"messi","password":"1234"}
+Login success for user: messi
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"mila","email":"mila","password":"12345678"}
+Registrasi sukses untuk user: mila
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"mila","password":"12345678"}
+Login success for user: mila
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"mila","password":"mila"}
+Password salah untuk user: mila
+Login attempt: {"username":"mila","password":"mila"}
+Password salah untuk user: mila
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"mila","password":"12345678"}
+Login success for user: mila
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"zaki","email":"zaki@gmail.com","password":"1234"}
+Registrasi sukses untuk user: zaki
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"zaki","password":"1234"}
+Login success for user: zaki
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"tito","email":"tito@gmail.com","password":"tito1234"}
+Registrasi sukses untuk user: tito
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"tito","password":"tito1234"}
+Login success for user: tito
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"Meng Meng","email":"asdfggdd@gmail.com","password":"12345"}
+Registrasi sukses untuk user: Meng Meng
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"Meng Meng","password":"12345"}
+Login success for user: Meng Meng
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"Meng Meng","password":"12345"}
+Login success for user: Meng Meng
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"nopal","email":"xnxx@gmail.com","password":"password"}
+Registrasi sukses untuk user: nopal
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"nopal","password":"pass"}
+Password salah untuk user: nopal
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"nopal","email":"xnxx@gmail.com","password":"password"}
+Error: Username nopal sudah ada
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"xnxx","email":"xnxx@gmail.com","password":"password"}
+Error: Email xnxx@gmail.com sudah ada
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"xnxx","email":"test@gmail.com","password":"password"}
+Registrasi sukses untuk user: xnxx
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"nopal","password":"pass"}
+Password salah untuk user: nopal
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"xnxx","password":"password"}
+Login success for user: xnxx
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"vika","email":"vika@gmail.com","password":"12345678"}
+Registrasi sukses untuk user: vika
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"vika","password":"12345678"}
+Login success for user: vika
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"sayu","email":"sayu@gmail.com","password":"1234"}
+Registrasi sukses untuk user: sayu
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"sayu","password":"1234"}
+Login success for user: sayu
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"panji","email":"panji@gmail.com","password":"1234"}
+Registrasi sukses untuk user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"","password":""}
+User tidak ditemukan: 
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"farid","email":"farid@gmail.com","password":"1234"}
+Registrasi sukses untuk user: farid
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"farid","password":"1234"}
+Login success for user: farid
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+Login success for user: radit
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"panjiw","password":"1234"}
+Login success for user: panjiw
+Login attempt: null
+User tidak ditemukan: 
+Login attempt: {"username":"radit","password":"1234"}
+User tidak ditemukan: radit
+Login attempt: {"username":"panjiw","password":"1234"}
+Login success for user: panjiw
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"panjiw","password":"1234"}
+User tidak ditemukan: panjiw
+Login attempt: {"username":"panji","password":"1234"}
+Login success for user: panji
+Login attempt: {"username":"panjiw","password":"1234"}
+Login success for user: panjiw
+Login attempt: {"username":"panjiw","password":"1234"}
+User tidak ditemukan: panjiw
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Login attempt: {"username":"akbar","password":"1234"}
+User tidak ditemukan: akbar
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"jonoo","password":"1234"}
+User tidak ditemukan: jonoo
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"roni","email":"janu@gmail.com","password":"nauval2005"}
+Registrasi sukses untuk user: roni
+Login attempt: {"username":"januEsdf","password":"asda"}
+User tidak ditemukan: januEsdf
+Login attempt: {"username":"januEsdf","password":"asda"}
+User tidak ditemukan: januEsdf
+Login attempt: {"username":"roni","password":"nauval2005"}
+Login success for user: roni
+Login attempt: {"username":"janu","password":"1234"}
+User tidak ditemukan: janu
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"janu","password":"1234"}
+User tidak ditemukan: janu
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"12345"}
+Login success for user: raditya
+Login attempt: {"username":"radit","password":"1234"}
+User tidak ditemukan: radit
+Login attempt: {"username":"raditya","password":"1234"}
+Password salah untuk user: raditya
+Login attempt: {"username":"raditya","password":"12345"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"raditya","password":"1234"}
+Login success for user: raditya
+Login attempt: {"username":"jono","password":"12345"}
+Password salah untuk user: jono
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Login attempt: {"username":"jono","password":"123"}
+Password salah untuk user: jono
+Login attempt: {"username":"jono","password":"1234"}
+Login success for user: jono
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"kucrit","email":"kucritcrut@gmail.com","password":"kucrut"}
+Registrasi sukses untuk user: kucrit
+Login attempt: {"username":"kucrit","password":"kucrtit"}
+Password salah untuk user: kucrit
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"kucrit","email":"kucrit@gmail.com","password":"kucrit"}
+Error: Username kucrit sudah ada
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"kucrit123","email":"kucrit@gmail.com","password":"kucrit"}
+Registrasi sukses untuk user: kucrit123
+Login attempt: {"username":"kucrit123","password":"kucrit"}
+Login success for user: kucrit123
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"zaky","email":"zaky@gmail.com","password":"12345678"}
+Registrasi sukses untuk user: zaky
+Login attempt: {"username":"zaky","password":"12345678"}
+Login success for user: zaky
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"jors","email":"jors@gmail.com","password":"123"}
+Registrasi sukses untuk user: jors
+Login attempt: {"username":"jors","password":"123"}
+Login success for user: jors
+Data diterima: null
+Error: Data tidak lengkap
+Data diterima: {"username":"adit","email":"adit@gmail.com","password":"123"}
+Registrasi sukses untuk user: adit
+Login attempt: {"username":"adit","password":"123"}
+Login success for user: adit
